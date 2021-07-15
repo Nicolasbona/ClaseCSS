@@ -31,8 +31,13 @@ body div h1{
     color: #d41f1f98;
 }
 .list{
-    border: 2px solid #18458a98;
+    border: 2px solid #199da798;
     border-radius: 20px;
+    background: linear-gradient(to left, white, #191ba798);
+    margin-bottom: 20px;
+    box-shadow: 0 0 50px #8eb;
+    font-family: 'Zen Loop', cursive;
+    font-size: 25px;
 }
 .list ul{
     padding: 0px;
